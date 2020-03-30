@@ -12,4 +12,27 @@
     
     
   </channel>
+</rss>pe="application/rss+xml" />
+    
+    
+    <item>
+      <title>Staff</title>
+      <link>https://handbook.rpnation.com/staff/</link>
+      <pubDate>Mon, 30 Mar 2020 12:40:14 -0400</pubDate>
+      
+      <guid>https://handbook.rpnation.com/staff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RpNation Community Guidelines</title>
+      <link>https://handbook.rpnation.com/rules/</link>
+      <pubDate>Mon, 30 Mar 2020 12:25:35 -0400</pubDate>
+      
+      <guid>https://handbook.rpnation.com/rules/</guid>
+      <description>RpNation prides itself on being an open and inclusive community that promotes individualism, diversity, and a strong community spirit. The mission of The Nation is to ensure site users have a friendly, positive environment to create, and participate in, roleplay games, as well as create and share their own artistic projects with other members of the community.
+To safeguard this mission, The Staff of RpNation reserve the right to ban any account at any time, and without notice, for any conduct or behavior that is deemed to be inappropriate or harmful to others.</description>
+    </item>
+    
+  </channel>
 </rss>
